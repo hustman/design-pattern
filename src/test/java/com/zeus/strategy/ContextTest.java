@@ -2,8 +2,6 @@ package com.zeus.strategy;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
-
 /**
  * @author xuxingbo
  * @Date 2017/7/3
